@@ -1,0 +1,98 @@
+﻿
+@{
+    ViewData["Title"] = "ShopIndex";
+    Layout = "~/Views/Shared/Shop_Layout.cshtml";
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Fredericka+the+Great&family=Pacifico&family=Rubik+Distressed&display=swap" rel="stylesheet">
+
+        <style>
+            h5 {
+                font-family: "DM Serif Text", "sans-serif";
+            }
+            #sepetbutton {
+                background-color: white;
+                border-color: rgb(255, 170, 128);
+                color: rgb(255, 170, 128);
+                position: absolute;
+                left: 12px;
+                right: 12px;
+                bottom: 6px;
+            }
+            #sepetbutton:hover {
+                background-color: rgb(255, 170, 128);
+                color: white;
+            }
+            #shopcardtext {
+                color: dimgrey;
+                padding-top: 10px;
+                padding-right: 6px;
+                padding-left: 6px;
+            }
+            h2 {
+                color: dimgrey;
+                margin-top: 30px;
+            }
+        </style>
+
+    </head>
+    <body>
+        
+        <div class="container" style="margin-top: 100px; margin-bottom: 80px;">
+            <div class="row">
+                <div class="col-3">
+                    <div class="card shadow bg-body rounded" style="width: 18rem; height: 30rem;">
+                        <img src="~/images/bademunu.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p id="shopcardtext" class="card-text">TheLifeCo Organik Badem Unu 250 gr</p>
+                            <h2>₺ 149.90</h2>
+                            <a id="sepetbutton" href="#" class="btn btn-outline">Sepete Ekle</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="card shadow bg-body rounded" style="width: 18rem; height: 30rem;">
+                        <img src="~/images/makarna.jpg" card-img-top" alt="...">
+                        <div class="card-body">
+                            <p id="shopcardtext" class="card-text">Hüma Organik Kırmızı Mercimekli Makarna 250 Gr</p>
+                            <h2>₺ 36.00</h2>
+                            <a id="sepetbutton" href="#" class="btn btn-outline">Sepete Ekle</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="card shadow bg-body rounded" style="width: 18rem; height: 30rem;">
+                        <img src="~/images/müsli.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p id="shopcardtext" class="card-text">TheLifeCo Prebiyotik Bileşenli Yulaf& Kuruyemişli Müsli - 300gr</p>
+                            <h2>₺ 59.90</h2>
+                            <a id="sepetbutton" href="#" class="btn btn-outline">Sepete Ekle</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="card shadow bg-body rounded" style="width: 18rem; height: 30rem;">
+                        <img src="~/images/tohumkraker.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p id="shopcardtext" class="card-text">Munchey Tohum Kraker Zeytinli 100 Gr</p>
+                            <h2>₺ 41.00</h2>
+                            <a id="sepetbutton" href="#" class="btn btn-outline">Sepete Ekle</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </body>
+    </html>
+}
+    
+            
+

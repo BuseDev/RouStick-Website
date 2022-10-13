@@ -1,0 +1,227 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cormorant&family=DM+Serif+Text&family=Fredericka+the+Great&family=Merriweather:wght@300;700&family=Oswald:wght@300&family=Pacifico&family=Playfair+Display&family=Roboto+Slab:wght@300&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Fredericka+the+Great&family=Pacifico&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cormorant&family=DM+Serif+Text&family=Fredericka+the+Great&family=Merriweather:wght@300;700&family=Oswald:wght@300&family=Pacifico&family=Roboto+Slab:wght@300&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <style>
+            #title {
+                font-family: "Playfair Display", "sans-serif";
+                text-align: center;
+                margin-top: 90px;
+                margin-bottom: 90px;
+            }
+
+            #cardbody {
+                padding-top: 60px;
+                padding-bottom: 130px;
+            }
+
+            .card-title {
+                padding-bottom: 25px;
+            }
+
+            a.link {
+                font-family: "Roboto Slab", "sans-serif";
+                position: absolute;
+                bottom: 20px;
+            }
+
+            a.link:link {
+                color: rgb(179, 0, 59);
+                background-color: transparent;
+                text-decoration: none;
+            }
+
+            a.link:hover {
+                color: rgb(179, 0, 59);
+                background-color: transparent;
+                text-decoration: underline;
+            }
+
+            a.link:visited {
+                color: rgb(179, 0, 59);
+                background-color: transparent;
+                text-decoration: none;
+            }
+
+            a.private {
+                font-family: "Roboto Slab", "sans-serif";
+            }
+
+            a.private:link {
+                color: wheat;
+                background-color: transparent;
+                text-decoration: none;
+            }
+
+            a.private:hover {
+                color: wheat;
+                background-color: transparent;
+                text-decoration: underline;
+            }
+
+            a.private:visited {
+                color: wheat;
+                background-color: transparent;
+                text-decoration: none;
+            }
+
+            #cardcontent {
+                color: wheat;
+                font-family: "Roboto Slab", "sans-serif";
+            }
+
+            h5 {
+                font-family: "DM Serif Text", "sans-serif";
+            }
+
+            #sepetbutton {
+                background-color: white;
+                border-color: rgb(255, 170, 128);
+                color: rgb(255, 170, 128);
+                position: absolute;
+                left: 12px;
+                right: 12px;
+                bottom: 6px;
+            }
+
+            #sepetbutton:hover {
+                background-color: rgb(255, 170, 128);
+                color: white;
+            }
+
+            #shopcardtext {
+                color: dimgrey;
+                padding-top: 10px;
+                padding-right: 6px;
+                padding-left: 6px;
+            }
+
+            h2 {
+                color: dimgrey;
+                margin-top: 65px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="card border border-0">
+            <img src="~/images/purplegirl.jpg" class="card-img-fluid" alt="...">
+            <div href="#" class="card-img-overlay text-light" style="padding-left:800px; padding-top:350px;">
+                
+                <a href="#" target="" class="private">Travel</a>
+                <h5 id="cardcontent" class="card-title" style="padding-top: 1%;">Baharda Ege Rüyası</h5>
+                <p id="cardcontent" class="card-text">Six Senses Kaplankaya, baharın gelmesiyle bütünsel wellness deneyimi anlayışı ve SPA’sıyla, Ege’nin eşsiz doğasında beş özel koyda konumlanan kum plajları ve doğayla bütünleşen modern dizaynıyla sizleri bekliyor.</p>
+                <p id="cardcontent" class="card-text" style="font-size: 10px;">20 Mart 2022</p>
+                
+                <a href="#" target="" class="private">Travel</a>
+                <h5 id="cardcontent" class="card-title" style="padding-top: 1%;">Akdeniz'den Bir Kartpostal</h5>
+                <p id="cardcontent" class="card-text">Yazın beraberinde getirdiği sıcak renklere bürünüyor ve Akdeniz’in romantik atmosferinin tadını çıkarıyoruz.</p>
+                <p id="cardcontent" class="card-text" style="font-size: 10px;">15 Ağustos 2022</p>
+            
+            </div>
+        </div>
+
+
+        <div class="container">
+
+            <h1 id="title">"You are your only limit."</h1>
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-4">
+                        <div class="card shadow bg-body rounded">
+                            <a><img width="360" height="190" src="~/images/sugar.jpg" class="card-img-top" alt="..."></a>
+                            <div id="cardbody" class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a class="link" href="#">Devamını Oku>></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="card shadow bg-body rounded">
+                            <a><img width="360" height="190" src="~/images/bananabread.jpg" class="card-img-top" alt="..."></a>
+                            <div id="cardbody" class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a class="link" href="#">Devamını Oku>></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="card shadow bg-body rounded">
+                            <a><img width="360" height="190" src="~/images/bulletproof.jpg" class="card-img-top" alt="..."></a>
+                            <div id="cardbody" class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a class="link" href="#">Devamını Oku>></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <h1 id="title">Shop</h1>
+
+            <div class="container" style="margin-bottom: 80px;">
+                <div class="row">
+                    <div class="col-3">
+                        <div class="card shadow bg-body rounded" style="width: 18rem; height: 33rem;">
+                            <img src="~/images/bademunu.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <p id="shopcardtext" class="card-text">TheLifeCo Organik Badem Unu 250 gr</p>
+                                <h2>₺ 149.90</h2>
+                                <a id="sepetbutton" href="#" class="btn btn-outline">Sepete Ekle</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="card shadow bg-body rounded" style="width: 18rem; height: 33rem;">
+                            <img src="~/images/makarna.jpg" card-img-top" alt="...">
+                            <div class="card-body">
+                                <p id="shopcardtext" class="card-text">Hüma Organik Kırmızı Mercimekli Makarna 250 Gr</p>
+                                <h2>₺ 36.00</h2>
+                                <a id="sepetbutton" href="#" class="btn btn-outline">Sepete Ekle</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="card shadow bg-body rounded" style="width: 18rem; height: 33rem;">
+                            <img src="~/images/müsli.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <p id="shopcardtext" class="card-text">TheLifeCo Prebiyotik Bileşenli Yulaf& Kuruyemişli Müsli - 300gr</p>
+                                <h2>₺ 59.90</h2>
+                                <a id="sepetbutton" href="#" class="btn btn-outline">Sepete Ekle</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="card shadow bg-body rounded" style="width: 18rem; height: 33rem;">
+                            <img src="~/images/tohumkraker.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <p id="shopcardtext" class="card-text">Munchey Tohum Kraker Zeytinli 100 Gr</p>
+                                <h2>₺ 41.00</h2>
+                                <a id="sepetbutton" href="#" class="btn btn-outline">Sepete Ekle</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </body>
+    </html>
+}
+
+
+
+
