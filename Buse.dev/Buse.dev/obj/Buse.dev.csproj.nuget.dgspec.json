@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\Buse.dev\\Buse.dev\\Buse.dev.csproj": {}
+    "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\Buse.dev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\Buse.dev\\Buse.dev\\Buse.dev.csproj": {
+    "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\Buse.dev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Buse.dev\\Buse.dev\\Buse.dev.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\Buse.dev.csproj",
         "projectName": "Buse.dev",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\Buse.dev\\Buse.dev\\Buse.dev.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\Buse.dev.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\Buse.dev\\Buse.dev\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

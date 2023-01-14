@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Buse.dev.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Buse.dev.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\icons\\cart.png",
+      "PackagePath": "staticwebassets\\icons\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\icons\\flower.png",
+      "PackagePath": "staticwebassets\\icons\\flower.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\icons\\instagram.png",
+      "PackagePath": "staticwebassets\\icons\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\icons\\leaf.png",
+      "PackagePath": "staticwebassets\\icons\\leaf.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\icons\\linkedin.png",
+      "PackagePath": "staticwebassets\\icons\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\icons\\love.png",
+      "PackagePath": "staticwebassets\\icons\\love.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\icons\\snow.png",
+      "PackagePath": "staticwebassets\\icons\\snow.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\icons\\sun.png",
+      "PackagePath": "staticwebassets\\icons\\sun.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\icons\\twitter.png",
+      "PackagePath": "staticwebassets\\icons\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\icons\\user.png",
+      "PackagePath": "staticwebassets\\icons\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\bademunu.jpg",
+      "PackagePath": "staticwebassets\\images\\bademunu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\bananabread.jpg",
+      "PackagePath": "staticwebassets\\images\\bananabread.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\bellahadid.jpg",
+      "PackagePath": "staticwebassets\\images\\bellahadid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\bottles.jpg",
+      "PackagePath": "staticwebassets\\images\\bottles.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\bulletproof.jpg",
+      "PackagePath": "staticwebassets\\images\\bulletproof.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\coffee.jpg",
+      "PackagePath": "staticwebassets\\images\\coffee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\egzersiz.jpg",
+      "PackagePath": "staticwebassets\\images\\egzersiz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\kintsugi.jpg",
+      "PackagePath": "staticwebassets\\images\\kintsugi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\makarna.jpg",
+      "PackagePath": "staticwebassets\\images\\makarna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\meal.jpg",
+      "PackagePath": "staticwebassets\\images\\meal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\milk.jpg",
+      "PackagePath": "staticwebassets\\images\\milk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\müsli.jpg",
+      "PackagePath": "staticwebassets\\images\\müsli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\pastapepper.jpg",
+      "PackagePath": "staticwebassets\\images\\pastapepper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\plastic.jpg",
+      "PackagePath": "staticwebassets\\images\\plastic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\progbackground.jpg",
+      "PackagePath": "staticwebassets\\images\\progbackground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\propolis.jpg",
+      "PackagePath": "staticwebassets\\images\\propolis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\purplegirl.jpg",
+      "PackagePath": "staticwebassets\\images\\purplegirl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\ralplauren.jpg",
+      "PackagePath": "staticwebassets\\images\\ralplauren.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\redberries.jpg",
+      "PackagePath": "staticwebassets\\images\\redberries.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\sabır.jpg",
+      "PackagePath": "staticwebassets\\images\\sabır.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\saglikliyaglar.jpg",
+      "PackagePath": "staticwebassets\\images\\saglikliyaglar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\saman.jpg",
+      "PackagePath": "staticwebassets\\images\\saman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\sugar.jpg",
+      "PackagePath": "staticwebassets\\images\\sugar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\swimm.jpg",
+      "PackagePath": "staticwebassets\\images\\swimm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\tohumkraker.jpg",
+      "PackagePath": "staticwebassets\\images\\tohumkraker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\twowomen.jpg",
+      "PackagePath": "staticwebassets\\images\\twowomen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\vegetables.jpg",
+      "PackagePath": "staticwebassets\\images\\vegetables.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\images\\yoga.jpeg",
+      "PackagePath": "staticwebassets\\images\\yoga.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\RouStick\\RouStick\\Buse.dev\\Buse.dev\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Buse.dev.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Buse.dev.props",
+      "PackagePath": "build\\Buse.dev.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Buse.dev.props",
+      "PackagePath": "buildMultiTargeting\\Buse.dev.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Buse.dev.props",
+      "PackagePath": "buildTransitive\\Buse.dev.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
