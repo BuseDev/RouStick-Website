@@ -237,6 +237,11 @@ C:\Users\lenovo\source\repos\Buse.dev\Buse.dev\bin\Debug\net6.0\runtimes\win\lib
 C:\Users\lenovo\source\repos\Buse.dev\Buse.dev\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\lenovo\source\repos\Buse.dev\Buse.dev\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\lenovo\source\repos\Buse.dev\Buse.dev\obj\Debug\net6.0\Buse.dev.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Buse.dev\Buse.dev\obj\Debug\net6.0\staticwebassets\msbuild.Buse.dev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\source\repos\Buse.dev\Buse.dev\obj\Debug\net6.0\staticwebassets\msbuild.build.Buse.dev.props
+C:\Users\lenovo\source\repos\Buse.dev\Buse.dev\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Buse.dev.props
+C:\Users\lenovo\source\repos\Buse.dev\Buse.dev\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Buse.dev.props
+C:\Users\lenovo\source\repos\Buse.dev\Buse.dev\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\lenovo\Documents\GitHub\RouStick\RouStick\Buse.dev\Buse.dev\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\lenovo\Documents\GitHub\RouStick\RouStick\Buse.dev\Buse.dev\bin\Debug\net6.0\appsettings.json
 C:\Users\lenovo\Documents\GitHub\RouStick\RouStick\Buse.dev\Buse.dev\bin\Debug\net6.0\Buse.dev.staticwebassets.runtime.json
